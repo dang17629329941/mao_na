@@ -76,6 +76,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1752905481598",
+          "name": "gpt-4o-mini",
+          "url": "https://chat18.aichatosgg.com/#/chat/1752905218848",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -83,7 +90,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 2,
       "sites": [
         {
           "id": "json-formatter",
@@ -119,7 +126,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -176,7 +183,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "github",
@@ -212,7 +219,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 5,
       "sites": [
         {
           "id": "linuxdo",
@@ -284,7 +291,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 7,
       "sites": [
         {
           "id": "bilibili",
@@ -313,7 +320,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 8,
       "sites": [
         {
           "id": "notion",
