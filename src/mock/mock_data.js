@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://chat18.aichatosgg.com/#/chat/1752905218848",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1752906117849",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/app?utm_source=about.google&utm_medium=referral&utm_campaign=productslist",
+          "description": "",
+          "icon": "/sitelogo/gemini.google.com.ico"
         }
       ]
     },
@@ -353,6 +360,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "梦豪的导航",
-  "_fileSha": "3e8c65addac0dd28e174449db3754785b5bcae31"
+  "title": "梦豪的导航"
 }
