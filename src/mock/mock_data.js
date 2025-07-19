@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1752906634065",
+          "name": "QQ邮箱",
+          "url": "https://mail.qq.com/",
+          "description": "",
+          "icon": "/sitelogo/mail.qq.com.ico"
         }
       ]
     },
