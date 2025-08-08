@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
@@ -40,6 +33,13 @@ export const mockData = {
           "url": "https://mail.qq.com/",
           "description": "",
           "icon": "/sitelogo/mail.qq.com.ico"
+        },
+        {
+          "id": "linux-do",
+          "name": "Linux.do",
+          "url": "https://linux.do",
+          "description": "Linux技术社区，Peace and Love",
+          "icon": "/sitelogo/linux.do.ico"
         }
       ]
     },
@@ -49,13 +49,6 @@ export const mockData = {
       "icon": "🤖",
       "order": 1,
       "sites": [
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
-        },
         {
           "id": "claude",
           "name": "Claude",
@@ -97,6 +90,13 @@ export const mockData = {
           "url": "https://gemini.google.com/app?utm_source=about.google&utm_medium=referral&utm_campaign=productslist",
           "description": "",
           "icon": "/sitelogo/gemini.google.com.ico"
+        },
+        {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "url": "https://chat18.aichatosgg.com/#/chat/1754450085040",
+          "description": "OpenAI对话AI助手",
+          "icon": "/sitelogo/chat.openai.com.ico"
         }
       ]
     },
@@ -367,6 +367,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "导航",
-  "_fileSha": "c3f831185caffe3753c00e60fb81979adb7752ca"
+  "title": "导航"
 }
