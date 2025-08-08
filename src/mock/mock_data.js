@@ -94,7 +94,7 @@ export const mockData = {
         {
           "id": "chatgpt",
           "name": "ChatGPT",
-          "url": "https://chat18.aichatosgg.com/#/chat/1754450085040",
+          "url": "https://chat18.aichatosgg.com/",
           "description": "OpenAI对话AI助手",
           "icon": "/sitelogo/chat.openai.com.ico"
         }
