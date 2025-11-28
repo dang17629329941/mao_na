@@ -61,6 +61,20 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1764312967859",
+          "name": "deepseek",
+          "url": "https://chat.deepseek.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
+        },
+        {
+          "id": "site-1764313021757",
+          "name": "kimi",
+          "url": "https://www.kimi.com/zh/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.kimi.com"
         }
       ]
     },
@@ -495,6 +509,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航",
-  "_fileSha": "e442e21db148e44718a83a0702fcc16b52ef3a01"
+  "title": "猫猫导航"
 }
