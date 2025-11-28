@@ -21,6 +21,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/chanel.weyolo.com"
         },
         {
+          "id": "site-1764306573221",
+          "name": "宝可梦加速器",
+          "url": "https://web4.52pokemon.cc/dashboard",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/web4.52pokemon.cc"
+        },
+        {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
