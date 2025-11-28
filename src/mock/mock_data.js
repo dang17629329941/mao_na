@@ -28,6 +28,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/web4.52pokemon.cc"
         },
         {
+          "id": "site-1764307143144",
+          "name": "教育邮箱",
+          "url": "https://mail.rose.edu.kg/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mail.rose.edu.kg"
+        },
+        {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
