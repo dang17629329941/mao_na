@@ -75,6 +75,13 @@ export const mockData = {
           "url": "https://www.kimi.com/zh/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.kimi.com"
+        },
+        {
+          "id": "site-1764555022444",
+          "name": "诺亚教育联盟",
+          "url": "https://mail.niuma.edu.kg/inbox",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mail.niuma.edu.kg"
         }
       ]
     },
