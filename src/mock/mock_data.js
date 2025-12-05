@@ -21,6 +21,20 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/chanel.weyolo.com"
         },
         {
+          "id": "site-1764904202794",
+          "name": "薄荷公益站",
+          "url": "https://x666.me/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/x666.me"
+        },
+        {
+          "id": "site-1764904237848",
+          "name": "薄荷签到",
+          "url": "https://qd.x666.me/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/qd.x666.me"
+        },
+        {
           "id": "site-1764306573221",
           "name": "宝可梦加速器",
           "url": "https://web4.52pokemon.cc/dashboard",
