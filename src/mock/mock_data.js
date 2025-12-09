@@ -42,6 +42,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/web4.52pokemon.cc"
         },
         {
+          "id": "site-1765245923777",
+          "name": "内网穿透",
+          "url": "https://www.natfrp.com/user/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.natfrp.com"
+        },
+        {
           "id": "site-1764307143144",
           "name": "教育邮箱",
           "url": "https://mail.rose.edu.kg/",
