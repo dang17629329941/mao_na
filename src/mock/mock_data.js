@@ -103,6 +103,20 @@ export const mockData = {
           "url": "https://mail.niuma.edu.kg/inbox",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mail.niuma.edu.kg"
+        },
+        {
+          "id": "site-1766895723717",
+          "name": "随时跑路公益站",
+          "url": "https://runanytime.hxi.me/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1766895774404",
+          "name": "随时跑路签到站",
+          "url": "https://fuli.hxi.me/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
