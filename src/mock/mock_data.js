@@ -82,6 +82,13 @@ export const mockData = {
           "url": "https://mail.niuma.edu.kg/inbox",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mail.niuma.edu.kg"
+        },
+        {
+          "id": "site-1767057521371",
+          "name": "gemini",
+          "url": "https://gemini.google.com/app/e675f30ba87a35f5?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
         }
       ]
     },
