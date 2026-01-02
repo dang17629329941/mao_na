@@ -153,6 +153,13 @@ export const mockData = {
           "url": "https://529961.com",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/529961.com"
+        },
+        {
+          "id": "site-1767312348832",
+          "name": "莹公益站",
+          "url": "https://api.wpgzs.top/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/api.wpgzs.top"
         }
       ]
     },
