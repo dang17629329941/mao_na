@@ -167,6 +167,20 @@ export const mockData = {
           "url": "https://quota.wpgzs.top/#slot",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1767313447349",
+          "name": "黑与白福利站",
+          "url": "https://cdk.hybgzs.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1767313402375",
+          "name": "黑与白公益站",
+          "url": "https://ai.hybgzs.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
