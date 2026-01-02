@@ -160,6 +160,13 @@ export const mockData = {
           "url": "https://api.wpgzs.top/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/api.wpgzs.top"
+        },
+        {
+          "id": "site-1767313082149",
+          "name": "莹加油站",
+          "url": "https://quota.wpgzs.top/#slot",
+          "description": "",
+          "icon": ""
         }
       ]
     },
