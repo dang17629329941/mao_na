@@ -181,6 +181,13 @@ export const mockData = {
           "url": "https://ai.hybgzs.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1768354428181",
+          "name": "HotaruAPI",
+          "url": "https://api.hotaruapi.top/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
