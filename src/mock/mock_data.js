@@ -29,7 +29,7 @@ export const mockData = {
         },
         {
           "id": "site-1764307143144",
-          "name": "教育邮箱",
+          "name": "罗斯理工大学邮箱",
           "url": "https://mail.rose.edu.kg/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mail.rose.edu.kg"
@@ -78,7 +78,7 @@ export const mockData = {
         },
         {
           "id": "site-1764555022444",
-          "name": "诺亚教育联盟",
+          "name": "吉尔吉斯斯坦牛马大学",
           "url": "https://mail.niuma.edu.kg/inbox",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mail.niuma.edu.kg"
