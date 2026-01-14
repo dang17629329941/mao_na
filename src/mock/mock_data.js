@@ -89,6 +89,13 @@ export const mockData = {
           "url": "https://gemini.google.com/app/e675f30ba87a35f5?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
+        },
+        {
+          "id": "site-1768369959579",
+          "name": "帕米尔大学邮箱",
+          "url": "https://mail.ryanvan.com/sent",
+          "description": "",
+          "icon": ""
         }
       ]
     },
