@@ -49,6 +49,13 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
+          "id": "curlconverter",
+          "name": "curl converter",
+          "url": "https://curlconverter.com/",
+          "description": "curl命令转换工具",
+          "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
           "id": "site-1764312967859",
           "name": "deepseek",
           "url": "https://chat.deepseek.com/",
@@ -80,6 +87,13 @@ export const mockData = {
           "id": "site-1768369959579",
           "name": "帕米尔大学邮箱",
           "url": "https://mail.ryanvan.com/sent",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1768555548007",
+          "name": "icat公益站",
+          "url": "https://icat.pp.ua/console",
           "description": "",
           "icon": ""
         }
@@ -460,13 +474,6 @@ export const mockData = {
           "url": "https://www.bejson.com/",
           "description": "工具大全",
           "icon": "/sitelogo/www.bejson.com.ico"
-        },
-        {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
         }
       ]
     },
