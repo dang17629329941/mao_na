@@ -155,13 +155,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/qd.x666.me"
         },
         {
-          "id": "site-1767056132371",
-          "name": "cone公益站",
-          "url": "https://zone.veloera.org",
-          "description": "签到在个人设置中",
-          "icon": ""
-        },
-        {
           "id": "site-1767056264905",
           "name": "996公益签到站",
           "url": "https://hub.529961.com/",
