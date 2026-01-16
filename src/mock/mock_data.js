@@ -35,13 +35,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/mail.rose.edu.kg"
         },
         {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
-        },
-        {
           "id": "site-1752857783656",
           "name": "OpenAI",
           "url": "https://chatgpt.com",
@@ -467,6 +460,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1752649007053",
+          "name": "BeJson",
+          "url": "https://www.bejson.com/",
+          "description": "工具大全",
+          "icon": "/sitelogo/www.bejson.com.ico"
         }
       ]
     },
