@@ -202,6 +202,13 @@ export const mockData = {
           "url": "https://icat.pp.ua/console",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1768674424836",
+          "name": "API",
+          "url": "https://api.ouu.ch/oauth/linuxdo?code=fZ5gpLa2KExEMjBoDeVprryZrwUKlFiB&state=dApwAOqtZRic",
+          "description": "",
+          "icon": ""
         }
       ]
     },
