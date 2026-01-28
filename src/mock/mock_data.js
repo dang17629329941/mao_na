@@ -127,13 +127,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1768360505161",
-          "name": "anyrouter公益站",
-          "url": "https://anyrouter.top",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1764904202794",
           "name": "薄荷公益站",
           "url": "https://x666.me/",
@@ -146,34 +139,6 @@ export const mockData = {
           "url": "https://qd.x666.me/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/qd.x666.me"
-        },
-        {
-          "id": "site-1767056264905",
-          "name": "996公益签到站",
-          "url": "https://hub.529961.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1767056307681",
-          "name": "996公益站",
-          "url": "https://529961.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/529961.com"
-        },
-        {
-          "id": "site-1767312348832",
-          "name": "莹公益站",
-          "url": "https://api.wpgzs.top/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/api.wpgzs.top"
-        },
-        {
-          "id": "site-1767313082149",
-          "name": "莹加油站",
-          "url": "https://quota.wpgzs.top/#slot",
-          "description": "",
-          "icon": ""
         },
         {
           "id": "site-1767313447349",
@@ -193,13 +158,6 @@ export const mockData = {
           "id": "site-1768425990556",
           "name": "wong公益站",
           "url": "https://wzw.pp.ua",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1768555548007",
-          "name": "icat公益站",
-          "url": "https://icat.pp.ua/console",
           "description": "",
           "icon": ""
         },
