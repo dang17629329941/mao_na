@@ -181,6 +181,13 @@ export const mockData = {
           "url": "https://api.ouu.ch/oauth/linuxdo?code=fZ5gpLa2KExEMjBoDeVprryZrwUKlFiB&state=dApwAOqtZRic",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1770079447756",
+          "name": "test",
+          "url": "https://openai.api-test.us.ci/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/openai.api-test.us.ci"
         }
       ]
     },
