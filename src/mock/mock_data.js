@@ -202,6 +202,13 @@ export const mockData = {
           "url": "https://api.freestyle.cc.cd/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1772242618002",
+          "name": "anyrouter公益站",
+          "url": "https://anyrouter.top/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
