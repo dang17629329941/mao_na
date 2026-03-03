@@ -177,14 +177,14 @@ export const mockData = {
         },
         {
           "id": "site-1768674424836",
-          "name": "API",
+          "name": "ouu",
           "url": "https://api.ouu.ch/oauth/linuxdo?code=fZ5gpLa2KExEMjBoDeVprryZrwUKlFiB&state=dApwAOqtZRic",
           "description": "",
           "icon": ""
         },
         {
           "id": "site-1770079447756",
-          "name": "test",
+          "name": "openai公益站",
           "url": "https://openai.api-test.us.ci/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/openai.api-test.us.ci"
@@ -198,7 +198,7 @@ export const mockData = {
         },
         {
           "id": "site-1770599070119",
-          "name": "leon公益站",
+          "name": "佬友公益站",
           "url": "https://api.freestyle.cc.cd/",
           "description": "",
           "icon": ""
