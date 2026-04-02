@@ -120,13 +120,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/chanel.weyolo.com"
         },
         {
-          "id": "site-1766895774404",
-          "name": "随时跑路签到站",
-          "url": "https://fuli.hxi.me/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1766895723717",
           "name": "随时跑路公益站",
           "url": "https://runanytime.hxi.me/",
