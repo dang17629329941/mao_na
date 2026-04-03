@@ -190,13 +190,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1770599070119",
-          "name": "佬友公益站",
-          "url": "https://api.freestyle.cc.cd/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1772242618002",
           "name": "anyrouter公益站",
           "url": "https://anyrouter.top/",
