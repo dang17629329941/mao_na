@@ -16,7 +16,7 @@ export const mockData = {
         {
           "id": "site-1775730201594",
           "name": "自己部署的订阅",
-          "url": "http://dd.menghao.indevs.in/8a8e8145-3dcc-422d-b72c-efdc5849a733",
+          "url": "https://dd.menghao.indevs.in/8a8e8145-3dcc-422d-b72c-efdc5849a733",
           "description": "\n\n\n",
           "icon": "https://www.faviconextractor.com/favicon/dd.menghao.indevs.in"
         },
