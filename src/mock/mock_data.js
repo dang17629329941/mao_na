@@ -183,13 +183,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1770079447756",
-          "name": "openai公益站",
-          "url": "https://openai.api-test.us.ci/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/openai.api-test.us.ci"
-        },
-        {
           "id": "site-1770271258611",
           "name": "lemon公益站",
           "url": "https://justdoitme.me/",
