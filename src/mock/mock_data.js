@@ -63,13 +63,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
         },
         {
-          "id": "site-1765245923777",
-          "name": "内网穿透",
-          "url": "https://www.natfrp.com/user/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.natfrp.com"
-        },
-        {
           "id": "site-1764307143144",
           "name": "罗斯理工大学邮箱",
           "url": "https://mail.rose.edu.kg/",
