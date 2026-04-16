@@ -188,13 +188,6 @@ export const mockData = {
           "url": "https://anyrouter.top/",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1775808868274",
-          "name": "自己本地的公益站",
-          "url": "http://localhost:8317/management.html#/quota",
-          "description": "",
-          "icon": ""
         }
       ]
     },
