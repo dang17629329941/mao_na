@@ -120,20 +120,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1764297474819",
-          "name": "风萧萧公益站",
-          "url": "https://chanel.weyolo.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/chanel.weyolo.com"
-        },
-        {
-          "id": "site-1768354428181",
-          "name": "HotaruAPI",
-          "url": "https://api.hotaruapi.top/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1764904202794",
           "name": "薄荷公益站",
           "url": "https://x666.me/",
