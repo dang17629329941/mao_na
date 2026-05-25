@@ -167,6 +167,13 @@ export const mockData = {
           "url": "https://anyrouter.top/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1779735485304",
+          "name": "codex",
+          "url": "https://new.sharedchat.cc/list/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/new.sharedchat.cc"
         }
       ]
     },
