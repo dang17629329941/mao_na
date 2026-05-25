@@ -103,6 +103,13 @@ export const mockData = {
           "url": "https://www.bejson.com/",
           "description": "工具大全",
           "icon": "/sitelogo/www.bejson.com.ico"
+        },
+        {
+          "id": "site-1779735568267",
+          "name": "导航栏管理",
+          "url": "https://dmh.indevs.in/admin",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dmh.indevs.in"
         }
       ]
     },
