@@ -188,6 +188,13 @@ export const mockData = {
           "url": "https://new.sharedchat.cc/list/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/new.sharedchat.cc"
+        },
+        {
+          "id": "site-1783607165615",
+          "name": "7倍算力",
+          "url": "https://7x.hk/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/7x.hk"
         }
       ]
     },
@@ -551,6 +558,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "导航",
-  "_fileSha": "0c78b68e675bd03dd18ec9a741dd54c3f48808ad"
+  "title": "导航"
 }
