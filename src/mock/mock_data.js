@@ -110,6 +110,13 @@ export const mockData = {
           "url": "https://dmh.indevs.in/admin",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/dmh.indevs.in"
+        },
+        {
+          "id": "site-1783589437782",
+          "name": "证书检测",
+          "url": "https://myssl.com/obs.yixinzhongyi.com",
+          "description": "",
+          "icon": ""
         }
       ]
     },
